@@ -23,4 +23,4 @@ options:
 --hdu HDU FITS HDU to convert (-1-INT_MAX, default: -1 (last HDU))
 ```
 
-![converted jpg](https://github.com/jacksondatkuliak/fastfitstojpg/example.jpg "Example converted jpeg from linear image")
+![converted jpg](https://github.com/jacksondatkuliak/FastFITStoJPG/blob/main/example.jpg "Example converted jpeg from linear image")
