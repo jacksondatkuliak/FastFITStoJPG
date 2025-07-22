@@ -22,5 +22,5 @@ options:
 --quality QUALITY JPEG quality (1-100, default: 80)
 --hdu HDU FITS HDU to convert (-1-INT_MAX, default: -1 (last HDU))
 ```
-
+Example jpeg converted from linear image
 ![converted jpg](https://github.com/jacksondatkuliak/FastFITStoJPG/blob/main/example.jpg "Example converted jpeg from linear image")
