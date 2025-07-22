@@ -5,6 +5,4 @@ src/dist
 compiled
 *.fits
 *.fit
-*.jpeg
-*.jpg
 *.spec
