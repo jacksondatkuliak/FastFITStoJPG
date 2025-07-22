@@ -1,8 +1,8 @@
 # FastFITStoJPG
 
 Quickly converts a single HDU in a FITS file into a jpg and saves it to disk.
-
-Build by running "make all" or "make all_clean" if you would like make to automatically delete unnecessary files after compilation.
+Requires Python 3, I used Python 3.13.5.
+Build by running "make all" or "make all_clean" if you would like make to automatically delete unnecessary files after compilation. Or, just use it with Python 3 if you have it installed. Does not require compilation.
 
 Usage:
 ```
