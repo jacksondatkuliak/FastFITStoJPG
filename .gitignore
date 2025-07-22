@@ -1,0 +1,10 @@
+src/venv
+src/build
+src/main
+src/dist
+compiled
+*.fits
+*.fit
+*.jpeg
+*.jpg
+*.spec
